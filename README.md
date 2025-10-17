@@ -5,9 +5,13 @@ This project displays the current time in hours, minutes, and seconds, updating 
 Features:-
 --------
 1.Displays current hours, minutes, and seconds
+
 2.Updates automatically every second
+
 3.Light and dark mode support (optional)
+
 4.Responsive design for all screen sizes
+
 5.Clean and modern user interface
 
 Technologies Used:-
