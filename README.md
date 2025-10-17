@@ -24,7 +24,7 @@ JavaScript – Logic for fetching and updating real-time data
 
 How to Run:-
 ----------
-Go to Digital Clock project on GitHub:
+Go to Digital Clock project on GitHub:https://bhargavivummiti.github.io/Digital-Clock/
 
 Download all the files as a ZIP.
 
